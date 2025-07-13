@@ -1,2 +1,5 @@
 backend/node_modules
 backend/.env
+
+# In root .gitignore
+-!frontend/.gitignore
